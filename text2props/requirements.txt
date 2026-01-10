@@ -9,6 +9,6 @@ scikit_learn==1.6.1
 scipy==1.15.2
 setuptools==78.1.0
 textstat==0.7.5
-torch==2.5.1+cu121
+torch==2.8.0
 tqdm==4.67.1
 transformers==4.51.2

@@ -10,7 +10,7 @@ setup(
     python_requires='>=3.7',
     install_requires=[
         'gensim==4.2.0',
-        'nltk==3.7',
+        'nltk==3.10.4',
         'numpy==1.23.5',
         'pandas==1.5.2',
         'pyirt==0.3.4',

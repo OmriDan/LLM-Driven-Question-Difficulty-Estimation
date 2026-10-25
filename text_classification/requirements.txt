@@ -85,7 +85,7 @@ pydantic_core==2.33.0
 pyparsing==3.2.3
 python-dateutil==2.9.0.post0
 python-dotenv==1.1.0
-pytorch-lightning==1.8.4
+pytorch-lightning==2.6.1
 pytz==2025.1
 PyYAML==6.0.2
 regex==2024.11.6
